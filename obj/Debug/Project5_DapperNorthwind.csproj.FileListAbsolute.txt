@@ -1,0 +1,13 @@
+C:\Users\ibrah\source\repos\MyPersonal20Projects\Project5_DapperNorthwind\bin\Debug\Project5_DapperNorthwind.exe.config
+C:\Users\ibrah\source\repos\MyPersonal20Projects\Project5_DapperNorthwind\bin\Debug\Project5_DapperNorthwind.exe
+C:\Users\ibrah\source\repos\MyPersonal20Projects\Project5_DapperNorthwind\bin\Debug\Project5_DapperNorthwind.pdb
+C:\Users\ibrah\source\repos\MyPersonal20Projects\Project5_DapperNorthwind\bin\Debug\Dapper.dll
+C:\Users\ibrah\source\repos\MyPersonal20Projects\Project5_DapperNorthwind\bin\Debug\Dapper.xml
+C:\Users\ibrah\source\repos\MyPersonal20Projects\Project5_DapperNorthwind\obj\Debug\Project5_DapperNorthwind.csproj.AssemblyReference.cache
+C:\Users\ibrah\source\repos\MyPersonal20Projects\Project5_DapperNorthwind\obj\Debug\Project5_DapperNorthwind.Form1.resources
+C:\Users\ibrah\source\repos\MyPersonal20Projects\Project5_DapperNorthwind\obj\Debug\Project5_DapperNorthwind.Properties.Resources.resources
+C:\Users\ibrah\source\repos\MyPersonal20Projects\Project5_DapperNorthwind\obj\Debug\Project5_DapperNorthwind.csproj.GenerateResource.cache
+C:\Users\ibrah\source\repos\MyPersonal20Projects\Project5_DapperNorthwind\obj\Debug\Project5_DapperNorthwind.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\source\repos\MyPersonal20Projects\Project5_DapperNorthwind\obj\Debug\Project5_DapperNorthwind.csproj.CopyComplete
+C:\Users\ibrah\source\repos\MyPersonal20Projects\Project5_DapperNorthwind\obj\Debug\Project5_DapperNorthwind.exe
+C:\Users\ibrah\source\repos\MyPersonal20Projects\Project5_DapperNorthwind\obj\Debug\Project5_DapperNorthwind.pdb
